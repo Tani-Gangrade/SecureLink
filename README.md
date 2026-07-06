@@ -23,4 +23,4 @@ A machine learning-based web application that detects and classifies websites as
 - Integrate phishing database cross-check for more accuracy.
 
 ## 📈 Interactive Dashboard
-Tableau - https://public.tableau.com/app/profile/tanisha.gangrade/vizzes
+- Tableau - https://public.tableau.com/app/profile/tanisha.gangrade/vizzes
