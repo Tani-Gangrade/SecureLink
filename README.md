@@ -27,7 +27,7 @@ A machine learning-based web application that detects and classifies websites as
 
 ## Executive Overview
 
-![Data Overview](Tableau/dashboards/DataOverview.png)
+![Data Overview](Tableau/dashboards/Data_Overview.png)
 
 ---
 
