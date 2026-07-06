@@ -22,5 +22,5 @@ A machine learning-based web application that detects and classifies websites as
 - Use LSTM or transformers for sequence-based phishing detection.
 - Integrate phishing database cross-check for more accuracy.
 
-## Tableau Work
-- https://public.tableau.com/app/profile/tanisha.gangrade/vizzes
+## 📈 Interactive Dashboard
+Tableau - https://public.tableau.com/app/profile/tanisha.gangrade/vizzes
