@@ -33,11 +33,11 @@ A machine learning-based web application that detects and classifies websites as
 
 ## Feature Engineering & Exploratory Data Analysis
 
-![Feature Engineering](Tableau/dashboards/feature_engineering_eda.png)
+![Feature Engineering & EDA](Tableau/dashboards/Feature_Engineering_&_EDA.png)
 
 ---
 
 ## Model Performance & Evaluation
 
-![Model Performance](Tableau/dashboards/model_performance.png)
+![Model Performance & Evaluation](Tableau/dashboards/Model_Performance_&_Evaluation.png)
 
